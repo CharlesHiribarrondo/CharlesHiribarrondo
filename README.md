@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CharlieLahire
-- 👀 I’m interested in Data Science and Web Developping
+- 👋 Hi, I’m @Charles Hiribarrondo
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python, and I'm looking forward to learn many programming languages
 - 💞️ I’m looking to collaborate on both Data Science and Web Developping projects
 - 📫 How to reach me : ...
